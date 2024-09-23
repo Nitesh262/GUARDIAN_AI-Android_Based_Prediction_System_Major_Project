@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348390264550",
+    "project_id": "fake-news-detection-syst-c6ed0",
+    "storage_bucket": "fake-news-detection-syst-c6ed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348390264550:android:d24a7bfbe3f76c78517527",
+        "android_client_info": {
+          "package_name": "com.example.fake_news_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRs69jkxsmUuZGy1DAzn1hvacD6_Mytws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
